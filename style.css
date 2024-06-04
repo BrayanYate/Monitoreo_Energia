@@ -27,3 +27,12 @@ body {
   width: 80%;
   margin: 20px auto;
 }
+
+.nav-link {
+  color: #fff;
+  background-color: rgb(53, 53, 53);
+  margin: 10px;
+  border-radius: 30px;
+  padding: 10px 20px;
+  font-weight: bolder;
+}
