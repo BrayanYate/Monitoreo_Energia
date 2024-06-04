@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+  min-height: 100vh; 
+}
+
+.container-fluid {
+  min-height: 100vh;
+}
+
+.chart-container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.chart-container canvas{
+  min-height: 100%;
+}
+
+.alertas {
+  width: 80%;
+  margin: 20px auto;
+}
